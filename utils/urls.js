@@ -17,7 +17,7 @@ async function multipleUrls() {
 			}))
 		);
 
-		// console.log(JSON.stringify(results, null, 2));
+		console.log(JSON.stringify(results, null, 2));
 	} catch (error) {
 		console.error(error);
 	}
