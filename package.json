@@ -1,7 +1,7 @@
 {
 	"name": "wappalyzer-multiple",
 	"description": "Running multiple urls on Wappalyzer",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"license": "UNLICENSED",
 	"bin": {
 		"wappalyzer-multiple": "index.js",
