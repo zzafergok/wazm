@@ -7,6 +7,6 @@ module.exports = info => {
 		msg: ``
 	});
 
-	console.log(info);
-	console.log();
+	// console.log(info);
+	// console.log();
 };
